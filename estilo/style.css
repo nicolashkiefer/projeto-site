@@ -3,8 +3,22 @@
     font-size: 16px;
 }
 
-body{
-    background-color: rgb(95, 126, 184);
+body {
+    background-color: #5f7eb8;
+}
+
+img.lado {
+    float: right;
+} 
+
+h1 {
+    font-size: 2em;
+    color: #324363;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #5f7eb8;
 }
 
 main {
